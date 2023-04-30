@@ -1,5 +1,5 @@
 # datastructures
-#C/C++
+# C/C++
 compile them in compiler
-#java
+# java
 use .class files to test
